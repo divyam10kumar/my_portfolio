@@ -13,9 +13,7 @@ export const Footer = () => {
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           {/* Copyright */}
           <div className="flex items-center gap-1 text-sm text-muted-foreground">
-            <span>© 2025 Divyam Kumar. Built with</span>
-            <Heart className="w-4 h-4 text-primary fill-primary" />
-            <span>and React</span>
+            <span>© 2025 Divyam Kumar.</span>
           </div>
 
           {/* Social Links */}
